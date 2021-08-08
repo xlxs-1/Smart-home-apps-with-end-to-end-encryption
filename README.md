@@ -2,6 +2,7 @@
 
 
 source available at: https://nemertes.library.upatras.gr/jspui/bitstream/10889/14891/2/smart_home_with_encryption.zip
+
 Hardware prerequisites:
 * more than 2 ESP32
 Software prerequisites:
